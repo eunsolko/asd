@@ -1,0 +1,3 @@
+print ("Hi")
+
+mkdir _________   = creates folder
